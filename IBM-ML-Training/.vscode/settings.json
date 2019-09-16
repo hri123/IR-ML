@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "env-ibm-ml-training/bin/python"
+    "python.pythonPath": "env-ibm-ml-training/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
 }
